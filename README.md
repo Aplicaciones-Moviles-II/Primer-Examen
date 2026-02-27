@@ -95,3 +95,19 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+
+===============================================================================================================================================================
+Parte del estudiante: Sofía Nazareth Gutiérrez Flores
+Abrir 2 terminales en la carpeta del proyecto:
+
+        Terminal 1 - Metro Bundler:
+            npx react-native start
+
+        Terminal 2 - Compilar e instalar APK:
+            npx react-native run-android
+
+       Credenciales de prueba del API FakeStore:
+          Usuario:    mor_2314
+          Contraseña: 83r5^_
+
